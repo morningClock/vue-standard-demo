@@ -1,13 +1,14 @@
 {
   "name": "vue-standard-demo",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "lint-staged",
     "prepare": "husky install",
-    "commit": "cz"
+    "commit": "cz",
+    "release": "standard-version"
   },
   "config": {
     "commitizen": {
@@ -44,6 +45,7 @@
     "prettier": "^2.4.1",
     "sass": "^1.32.7",
     "sass-loader": "^12.0.0",
+    "standard-version": "^9.5.0",
     "vue-template-compiler": "^2.6.14"
   }
 }
