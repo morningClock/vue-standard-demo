@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0](https://github.com/morningClock/vue-standard-demo/compare/v0.3.4...v1.0.0) (2022-08-22)
+
+
+### Features
+
+* **demo.vue:** add component demo.vue ([330b9fd](https://github.com/morningClock/vue-standard-demo/commit/330b9fd9b42caf5a9a65924fe02c3ab90b11f9d8))
+
 ### [0.3.4](https://github.com/morningClock/vue-standard-demo/compare/v0.3.3...v0.3.4) (2022-08-17)
 
 
